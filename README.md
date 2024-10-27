@@ -10,7 +10,11 @@ I,m a data scientist/analyst in training, i can help your company and you carry 
 
 # skills:
 -Data Analyst.
+
 -Data Science.
+
 -Python.
+
 -SQL.
+
 -Excel.
